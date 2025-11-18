@@ -104,7 +104,7 @@ A comprehensive AI-powered fitness application with real-time pose detection, nu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Honey-30/fitnesshub2.git
+   git clone https://github.com/StarkAnuj/fitnesshub2.git
    cd fitnesshub2
    ```
 
@@ -238,11 +238,8 @@ This project is open source and available under the MIT License.
 ## 🔗 Links
 
 - **Live Demo**: [AI Fitness Hub](https://ai.studio/apps/drive/1Nrv7KUPUtTeDC1HfWWjwFOsRPclGXIyc)
-- **Repository**: [GitHub](https://github.com/Honey-30/fitnesshub2)
-- **Issues**: [Report a Bug](https://github.com/Honey-30/fitnesshub2/issues)
-
 ---
 
 <div align="center">
-Made with ❤️ by Honey-30
+Made with ❤️ by Anuj
 </div>
